@@ -283,7 +283,7 @@
     -o-animation-play-state: paused;
     animation-play-state: paused;
 }
-.client-list{width: 1400px;height: 150px;display: inline-block;overflow: hidden;}
+.client-list{width: 1700px;height: 150px;display: inline-block;overflow: hidden;}
 .client-list li {
     list-style: none;float: left;display: block;
     width: 250px;height: 150px;margin: 0px 15px;
